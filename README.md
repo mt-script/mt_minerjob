@@ -4,7 +4,7 @@ The script is designed to support both the [es_extended](https://github.com/esx-
 
 # Support
 [My Discord Server](https://discord.gg/rcGVrczfNg)
-[MT Scripts DOCS]([https://discord.gg/rcGVrczfNg](https://mt-scripts-2.gitbook.io/mt-scripts/mt_minerjob/introduction)
+[MT Scripts DOCS](https://mt-scripts-2.gitbook.io/mt-scripts/mt_minerjob/introduction)
 
 # MT_minerjob function
 - Buying Pickaxes : Players can purchase a basic or advanced pickaxe from an NPC.
